@@ -1,6 +1,7 @@
 # SSDT_UnitTestingFunctions
 
 ## Compatibility Notes
+* This project was created with Visual Studio 2017 Professional.
 * The SQL Server Database project is configured for SQL Server 2017 compatibility.
 
 ## Introduction
